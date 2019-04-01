@@ -1,5 +1,6 @@
-'use strict';
 /* global cuid */
+
+'use strict';
 
 const store = (function() {
   const items = [
